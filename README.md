@@ -6,7 +6,7 @@
 - :new_moon: and a Data Engineer every other waking moment
 - :smiley: Super excited about ETL, Data Warehousing, Databases, Cloud, Automation...
 - 👯 Feel free to reach out to collaborate on any of the above and anything Data!
-- 📫 Always available to chat on [My LinkedIn](https://www.linkedin.com/in/kolapo-obajuluwa-562978a5/)
+- 📫 Always available to chat on [LinkedIn](https://www.linkedin.com/in/kolapo-obajuluwa-562978a5/)
 
 <!--
 **kolaoba/kolaoba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
