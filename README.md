@@ -2,7 +2,7 @@
 
 ## Welcome to my Playground :rocket:
 
-[![Kolapo's github stats](https://github-readme-stats.vercel.app/api?username=kolaoba&show_icons=true&theme=radical&hide=stars)]
+[Kolapo's github stats](https://github-readme-stats.vercel.app/api?username=kolaoba&show_icons=true&theme=radical&hide=stars)
 - :sunny: I’m a Data Analyst by Day 
 - :new_moon: and a Data Engineer every other waking moment
 - :smiley: Super excited about ETL, Data Warehousing, Databases, Cloud, Automation...
