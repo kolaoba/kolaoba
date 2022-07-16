@@ -10,7 +10,6 @@
 - 📫 Always available to chat!
 
 ## Get in Touch
-- 
 [<img src='https://cdn-icons-png.flaticon.com/512/281/281786.png' width='32' title='Email Me!'>](kolaobajuluwa@gmail.com)
 [<img src='https://cdn-icons-png.flaticon.com/512/733/733579.png' width='32' title='DM Me!'>](https://twitter.com/kolaobaj)
 [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' width='32' title='Message Me!'>](https://www.linkedin.com/in/kolapo-obajuluwa-562978a5/)
